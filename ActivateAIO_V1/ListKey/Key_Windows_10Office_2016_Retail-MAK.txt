@@ -1,0 +1,168 @@
+? Key Windows 10/Office 2016 Retail-MAK
+ 
+#Office 2016 Pro Plus Retail ch? c?n call duy nh?t m?t l?n, l?n cài d?t l?i sau nh?p key dã kích ho?t tru?c dó vào MSAct Plus v1.0.5 s? t? kích ho?t l?i không c?n call n?a, MSAct Plus v1.0.5 tích h?p trong b? Active
+   
+***********************************************************************************************
+                        WINDOWS 10 Retail-MAK Keys
+***********************************************************************************************
+===========================================
+Win 10 RTM Professional Volume:MAK
+Not available right now.!
+*******************************************
+Win 10 RTM Pro Retail
+slmgr.vbs -ipk 2PVNW-9YW2Q-H9HGJ-37KJB-6VJXG
+slmgr.vbs -ipk 2VPHJ-RKN4J-GR3P3-MHW22-RVV26
+slmgr.vbs -ipk 3VJVC-GNQTG-J99QG-TP68R-X2FC6
+slmgr.vbs -ipk 4JNP7-YBDVD-9PC4W-B383W-BWRC6
+slmgr.vbs -ipk 4RFHJ-PN29X-P676C-2P6JQ-MDWXG
+slmgr.vbs -ipk 6HCNJ-MFV9F-HHWKY-FQ3KY-DPFC6
+slmgr.vbs -ipk 6JDVV-NYKFX-696Y9-G48VH-M4G6T
+slmgr.vbs -ipk 6KF4N-XKKYB-V29QF-MTXC9-8QKTT
+slmgr.vbs -ipk 7M8NT-WBC2P-RMY42-R6K3G-P7JXG
+slmgr.vbs -ipk 7N8B3-QKW7K-67KDC-8YQDH-G6PKG
+slmgr.vbs -ipk 8HMNR-FW262-V3XY8-HB2BP-27JXG
+slmgr.vbs -ipk 8RB8N-33KD9-97RJW-BKXG7-6XXTT
+slmgr.vbs -ipk 9JH3Q-4NW7F-9M87B-8YD6C-V8RC6
+slmgr.vbs -ipk 9MWNQ-YCYGC-MDQ3G-KJJJ9-XKXTT
+slmgr.vbs -ipk B2NTK-MMB8Y-6GYFQ-6WPK6-GMT6T
+slmgr.vbs -ipk B67DC-HHNJF-3632Q-MJ8WJ-JFG6T
+slmgr.vbs -ipk B6QQ7-JN3HT-WHHC4-T26HG-GMT6T
+slmgr.vbs -ipk BKW7K-7GNT3-VDBG9-RWVXK-T83GT
+slmgr.vbs -ipk BRKH3-NQ48F-KHKTP-DKYG9-GJF9G
+slmgr.vbs -ipk BYF2N-49H4F-FTBWD-6C7X7-DRR9G
+slmgr.vbs -ipk C2DNX-R8CRQ-TXF8Y-3FDQB-2PQGT
+slmgr.vbs -ipk CNF37-FTVGP-4RQJ7-RKP4J-HMH26
+slmgr.vbs -ipk CNHJ2-X8VRP-TCHKJ-2YTF2-YKMP6
+slmgr.vbs -ipk DDBNG-R263Y-DBMV2-78Y8Y-FGDGT
+slmgr.vbs -ipk DNMXK-FRJR4-PHV4V-DBCWK-QV66T
+slmgr.vbs -ipk FNQ8R-CHQFT-KW37X-9W6C2-MP2KG
+slmgr.vbs -ipk FRNYT-B2TPK-9RRC4-FBMT3-9D726
+slmgr.vbs -ipk GBRQH-NBH9B-Y26Y7-YW8DB-G3BP6
+slmgr.vbs -ipk GDDCN-G9W4D-M8C6W-RBCTK-TF4C6
+slmgr.vbs -ipk GDY6N-T8PP7-KVCVB-K7TQJ-XW3GT
+slmgr.vbs -ipk GG33N-3CFYW-KPQQT-XT2CB-MY49G
+slmgr.vbs -ipk GGNRY-QHDPY-4R6VT-7VRH2-DDBP6
+slmgr.vbs -ipk GQT4N-87K8K-KGVP3-XXT8D-QRR9G
+slmgr.vbs -ipk GR7XN-XKQ74-6VPYB-JC23C-TMT6T
+slmgr.vbs -ipk HCVCR-TNP7Y-R746T-R2DJW-J8F9G
+slmgr.vbs -ipk HMNQD-KBMB8-7QQ3B-9MQJR-TVJXG
+slmgr.vbs -ipk HN2G7-GG8CY-2Q7WJ-QDQ2Q-DV66T
+slmgr.vbs -ipk J2JN2-MCTJ7-3RKVY-DCTR2-VFR9G
+slmgr.vbs -ipk J3636-7NM42-TBXB7-MPBRD-BG9TT
+slmgr.vbs -ipk JN87H-QT4CV-CBWBT-X7KCC-4RG6T
+slmgr.vbs -ipk JTFKT-RNVXX-4VY4G-RC4GQ-FM49G
+slmgr.vbs -ipk KDN7W-BJRRC-PHPF8-97664-3DBP6
+slmgr.vbs -ipk KY7NF-7QTPY-VMJQD-7TVHT-WXCKG
+slmgr.vbs -ipk M7NHW-X8J7D-MFPM4-8K4WJ-D9MP6
+slmgr.vbs -ipk M9XNB-MYQKK-2CCYH-C9WMQ-JTYP6
+slmgr.vbs -ipk MG7NW-PGB4Y-BKC22-7VXYQ-YBH26
+slmgr.vbs -ipk MRM8N-XQJTM-XB2H2-2BDFX-GJF9G
+slmgr.vbs -ipk N2269-CRP8Y-B74QD-9RM84-YTDGT
+slmgr.vbs -ipk N2BF8-2KVXW-XYRHD-3PVPH-XD726
+slmgr.vbs -ipk N2XYX-DMY3M-VB7PH-FXKX9-C7JXG
+slmgr.vbs -ipk N7GDQ-83GYH-7KFCJ-RPWBD-TCQGT
+slmgr.vbs -ipk N7TGG-G7BMJ-49Y88-PCKX3-2WF9G
+slmgr.vbs -ipk N84XF-6WK69-K3KXX-QC2W7-T3BP6
+slmgr.vbs -ipk NFXVQ-2TJWJ-Q86HT-4VPT6-VCFC6
+slmgr.vbs -ipk NH27R-YTMKJ-Q9TP4-GM4X3-63BP6
+slmgr.vbs -ipk NJ4G6-Y678C-H6JCG-8R2BR-CR4C6
+slmgr.vbs -ipk NJJKX-KDYFK-44KXM-KXMRJ-RX8XG
+slmgr.vbs -ipk NK2PX-D47V4-3X3MX-2379V-6XXTT
+slmgr.vbs -ipk NMK43-JQVM3-7Q6KY-TX3MK-3RR9G
+slmgr.vbs -ipk NRHY2-34MRQ-PYCMT-B883W-J8F9G
+slmgr.vbs -ipk NXFX3-RH294-DGV3X-T7C8F-HQWXG
+slmgr.vbs -ipk P637D-VNBRD-WFR82-W2T99-WTYP6
+slmgr.vbs -ipk PV76X-NJY3X-WGHVC-PPK6T-H8RC6
+slmgr.vbs -ipk PXT62-NKHX2-KYHCY-T837X-XKXTT
+slmgr.vbs -ipk QH74P-FNHYM-39MBG-42FQV-DRR9G
+slmgr.vbs -ipk QJNDC-6MKJB-QC3K2-XFKD6-MKMP6
+slmgr.vbs -ipk QN3VX-H6T39-3W679-BVBGY-K766T
+slmgr.vbs -ipk R3N4B-JXQ4Q-DPKK3-74MGM-KD726
+slmgr.vbs -ipk R3Q43-NWVXW-37W7K-MH88Q-RJRC6
+slmgr.vbs -ipk R4RRH-N2DHR-HYTH2-MPQ27-GCQGT
+slmgr.vbs -ipk RNJ7V-8M79J-YGW4Y-X8D2P-6JF9G
+slmgr.vbs -ipk T2DMP-QNFBT-TQMYH-2P4MB-39MP6
+slmgr.vbs -ipk TCVXN-RB9JR-CG4HH-J88BB-PR4C6
+slmgr.vbs -ipk TJQNX-RYHQJ-B28Y4-TFDH4-GXXTT
+slmgr.vbs -ipk TNQ2Q-HKW2D-GC4MQ-2CVR9-HCFC6
+slmgr.vbs -ipk V3NM7-QR7KB-F9RQP-TWD37-4C2KG
+slmgr.vbs -ipk VP8TK-6JNG3-CPTFV-TGF9V-RGDGT
+slmgr.vbs -ipk VXJFK-7FN99-WPTXY-R874C-HH66T
+slmgr.vbs -ipk W3NG4-3RKD6-JCGFP-MR64M-RC2KG
+slmgr.vbs -ipk WGHM8-JNF73-DXJVG-64QWX-66PKG
+slmgr.vbs -ipk WM2Y2-3NX24-BRXWP-BCTQD-QRR9G
+slmgr.vbs -ipk X3N3Q-D2H2P-BBVMF-J7FPP-V8RC6
+slmgr.vbs -ipk XJFNF-DF4RM-X94VQ-C28MH-JQKTT
+slmgr.vbs -ipk XJNJ9-PJQVV-Q42PY-B722R-4X8XG
+slmgr.vbs -ipk XNJXT-DPV2F-BJ8J6-RRVJ8-GVJXG
+slmgr.vbs -ipk XQHJV-N4JPH-FRW7X-V8WMR-6Q726
+slmgr.vbs -ipk XVHFW-4BNKP-J8HVC-G4Q6B-8FG6T
+slmgr.vbs -ipk Y8VPF-YNJXY-JK6MB-2KQQP-FX8XG
+slmgr.vbs -ipk YG6YN-6X3GR-R29RB-BXGQC-XTPKG
+-----------------------------
+Win 10 RTM Pro N Volume:MAK
+slmgr.vbs -ipk RWR88-K7NYC-GK8FW-CC3XT-BP2KY
+-----------------------------
+Win 10 RTM Enterprise Volume:MAK
+Not available right now.!
+------------------------------------------------------
+Win 10 RTM EnterpriseS Volume:MAK ( Enterprise LTSB )
+Product Key(s)---------------------------------Remaining Activation Counts
+Not available right now.!
+------------------------------------------------------
+Win 10 RTM EnterpriseSN Volume:MAK (Enterprise LTSB N)
+slmgr.vbs -ipk 84333-N23HF-CP6QV-DC9RT-P7JW9
+------------------------------------------------------
+Win 10 RTM Education Volume:MAK
+Not available right now.!
+*******************************************
+Win 10 RTM Education Retail
+Not available right now.!
+------------------------------------------------------
+Win 10 RTM Home Edition Retail
+Not available right now.!
+------------------------------------------------------
+[Tested working on VM3 05 March 2016]
+ 
+***********************************************************************************************
+                        Office 2016 Retail-VL MAK Keys
+***********************************************************************************************
+==============================
+Office 2016 Retail-VL MAK Keys
+==============================
+Office 2016 Pro Retail Keys:
+============================
+Office 2016 Pro Plus Phone Activation Retail Key
+BN346-KPVRG-HHQG3-6YDPV-8HV7H
+4KNF6-BY4QB-QFDW8-MCCJH-94TDV
+NT782-4R9JW-JYHG9-VVY8C-JB6DV
+B7WV8-K4NYK-QM8BD-YGFQT-6F4HH
+-------------------------------
+Office 2016 Visio Pro Phone Activation Retail Key  
+Not available right now.!
+-------------------------------
+Office 2016 Project Pro Phone Activation Retail Key
+Not available right now.!
+-------------------------------
+[Tested working on VM3 05 March 2016]
+ 
+=============================================================================
+ 
+Office 2016 Volume License MAK Keys
+===================================
+Office 2016 Pro Plus Volume License MAK Key(s):
+Product Key(s)------------------Remaining Activation Counts
+Not available right now.!
+-------------------------------------------------------------------------------
+Office 2016 Visio Pro Volume License MAK Key(s):
+Product Key(s)------------------Remaining Activation Counts
+Not available right now.!
+-------------------------------------------------------------------------------
+Office 2016 Project Pro Volume License MAK Key(s):  
+Product Key(s)------------------Remaining Activation Counts
+Not available right now.!
+-------------------------------------------------------------------------------
+Office 2016 Standard Volume License MAK Keys(s):
+Product Key(s)------------------Remaining Activation Counts
+Not available right now.!
+[Tested working on VM3 03 March 2016]

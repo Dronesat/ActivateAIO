@@ -1,0 +1,259 @@
+Key có Activation Count > 0 Active online
+Key có Activation Count = 0 Active by phone
+====================================================
+Office 2010 RTM ProjectPro MAK (8)
+KF6MQ-G3X7K-62DTP-X9G9R-9B79F  Activation Count: 621
+6RYRY-YM72R-PC27Q-67KQ4-VY622  Activation Count: 515
+6HTPG-9X4RQ-F23TW-FWWT9-BKR4V  Activation Count: 473
+TK7WV-9DQT4-MQM8K-F24DP-8QGWC  Activation Count: 426
+6TPW9-KBW68-F96XX-CFHRH-DKMKJ  Activation Count: 369
+P6MBB-36PYC-GCYBY-Y63MB-QVXV6  Activation Count: 0
+YGTKG-G4FM7-TXJCP-HYCHK-YBRR4  Activation Count: 0
+C9DDJ-XGJT8-W883V-WFPRB-T3GBX  Activation Count: 0
+====================================================
+Office 2010 RTM ProPlus MAK (23)
+6PWXW-DVC24-G38M2-QK88V-WVF2B  Activation Count: 913
+HTT8F-RRMGB-62YJ9-MC39J-3VVP6  Activation Count: 410
+YKTHM-9C2JQ-X6RGV-6QXQ4-K87Q7  Activation Count: 151
+W2XJV-PRYFD-8X322-QHT74-BKDXH  Activation Count: 119
+6KH64-XG6F3-3J82G-P2VQB-XBCYB  Activation Count: 33
+BWM8C-8WKHY-K2CPX-X79TQ-7MBXW  Activation Count: 5
+2K89D-RTVFD-472PT-484GQ-464TR  Activation Count: 0
+4BH9H-RJR8W-QR4FH-YKHXB-MG3MV  Activation Count: 0
+7T8JD-TB4KH-J3QFB-XM2DP-CMGX9  Activation Count: 0
+BJD99-FCPB6-W482W-DBWHV-QF6DF  Activation Count: 0
+C2YMD-874VP-44HX4-3R2FQ-HDFB6  Activation Count: 0
+CYFH3-V8BTM-WJRVM-436M8-949GH  Activation Count: 0
+FJQ4V-WXV7H-JP8MH-MHFTY-BVR69  Activation Count: 0
+J2YRJ-JTGJM-4JXVF-XVYWJ-Y7PPF  Activation Count: 0
+J83FC-JRWGW-7QVPF-MRJ4K-R224K  Activation Count: 0
+MDGBC-KTYRQ-DHW73-4F6XM-HVRP2  Activation Count: 0
+MR7VD-D9P6K-RXR63-CV6G2-86X27  Activation Count: 0
+P2PCM-77B9H-6QHFR-TJ6TM-TRKRY  Activation Count: 0
+V3G3Y-MG2PB-MX9Q9-42MYM-GTHC4  Activation Count: 0
+BCQRM-7JRRG-GRCFJ-2JC9K-7QQF9  Activation Count: 0
+HMYQH-J22D8-CQ4M3-WF7YY-T9VC2  Activation Count: 0
+MP4QG-XFKXY-YCC87-BPBV4-JT8C4  Activation Count: 0
+XHRBR-RFR3M-JYHHB-29XY8-RHYK8  Activation Count: 0
+====================================================
+Office 2010 RTM Standard MAK (6)
+YT3F4-3PT6M-XVQ4M-C3GH3-XR74C  Activation Count: 170
+D376J-Q7BK7-29DVX-T8BHH-7F3X7  Activation Count: 54
+2MXDK-K9WXT-R9Q4M-4K7H7-JMKCV  Activation Count: 15
+YKRK6-TCTMW-VQ42B-TGXJQ-8BKC3  Activation Count: 12
+87BYJ-W2HT4-HXH87-P684X-FBXWQ  Activation Count: 10
+YD7WY-T2B2R-2CKWK-DRGVJ-JRMP6  Activation Count: 2
+====================================================
+Office 2010 RTM VisioPrem MAK (2)
+YDDYK-T8M4C-HMDX8-TYJY6-X7347  Activation Count: 4864
+P799Y-97H3M-WCBP3-7BK99-TJWBX  Activation Count: 163
+====================================================
+Office 2010 RTM VisioPro MAK (5)
+76T6X-2D3MG-2P2FH-H9RD6-HDTRJ  Activation Count: 4930
+YFYJT-KYCDQ-4X47K-RKJBP-7JJCV  Activation Count: 420
+2WGMM-V4VXJ-8FRKG-922TD-8VVK6  Activation Count: 0
+2R89H-MX9TC-QHCVH-9FTG2-T8KQ3  Activation Count: 0
+38YPJ-JPMJ7-DHX9M-MKM99-TCTYV  Activation Count: 0
+ 
+Office 2010 RTM VisioStd MAK (1)
+PWTRB-QDPFM-VQVKY-XHVJ9-F3R3P  Activation Count: 2322
+====================================================
+Office 2013 LyncVL MAK (3)
+XXKXT-7QNXC-9G73V-7J7F4-JHRQ6  Activation Count: 4858
+4QWN2-YYDBC-FHQPK-B2T46-GMQVT  Activation Count: 999
+JM6TM-6WNGT-88KFY-Q7YMX-T8X7T  Activation Count: 761
+====================================================
+Office 2013 ProjectProVL MAK (2)
+9YWBG-NT47H-3BDYV-BYRWV-3JYGB  Activation Count: 0
+BNY68-CWQ47-9T7GP-7R9FH-VT7TB  Activation Count: 0
+====================================================
+Office 2013 ProPlusVL MAK (20)
+39XX8-2NJDY-YRMGV-3YJ6X-YDTXV  Activation Count: 0
+6N667-BMRDR-T2WMM-2RMQ9-DYF3H  Activation Count: 0
+78N9G-RRHJP-CXB8P-K4GPT-MKJQH  Activation Count: 0
+7BN9Q-HT7YF-DMF2K-JKW9H-9BQ67  Activation Count: 0
+7DMWV-PN6MV-2DTTQ-JQFGF-VMF3H  Activation Count: 0
+BNQWW-X4422-FCXD8-JPT37-PWC9V  Activation Count: 0
+C73NV-GKMYD-TC2X2-DT7JC-XTKKV  Activation Count: 0
+GC288-NVPMT-GWF2M-76228-W42DH  Activation Count: 0
+HRVQK-JNYXX-XPPQV-M3GQF-3C8QH  Activation Count: 0
+J8TH4-NKTXX-WY73W-Y49Y2-JB29V  Activation Count: 0
+K7F82-XNPXG-3BG6C-TV7M4-3C8QH  Activation Count: 0
+M2FCV-2NTW8-MJ4F4-GJQHB-MY29V  Activation Count: 0
+NGKV3-93PXJ-87G6M-K8R9Q-9D43H  Activation Count: 0
+PNT6B-DKH2Q-GW4J2-DDT6T-PDHT7  Activation Count: 0
+PQN8D-YJWXX-GTKV9-2T8G2-TMQ67  Activation Count: 0
+PXTM9-QNYVX-6G6WC-JH3CD-WQHT7  Activation Count: 0
+VYGR7-N32TB-BHGF9-F8G7G-QYF3H  Activation Count: 0
+H69H3-N49B7-F6RQP-67QRB-VQTXV  Activation Count: 0
+WPNPV-JWJ22-F9TWQ-82948-82MG7  Activation Count: 0
+BT289-PN344-W3M64-4P9V3-8K6XV  Activation Count: 0
+====================================================
+Office 2013 StandardVL MAK (1)
+3R8BG-CNHTJ-K44PV-7429V-2R2D6  Activation Count: 0
+====================================================
+Office 2013 VisioProVL MAK (4)
+WM9XX-NMDQT-9T646-F8VRP-D67WF  Activation Count: 405
+2XQNB-VT69T-48TY7-D44P3-4GBJF  Activation Count: 0
+88YWN-84K3Q-QK34X-V26H9-T8YJF  Activation Count: 0
+FQ3N7-DRB2X-MYFCY-RJXV3-PYQ8F  Activation Count: 0
+====================================================
+Server 12 R2 RTM ServerDatacenter Volume MAK (1)
+26QNJ-J3VJC-W3M2M-9KQC4-GXWGJ  Activation Count: 568
+====================================================
+Server 12 R2 RTM ServerStandard Volume MAK (1)
+NFPCT-MTPC2-2TGVW-VYG2T-236PJ  Activation Count: 0
+====================================================
+Server 2008 Datacenter & Itanium MAK (5)
+HRCRQ-CGWJ4-TCK27-BC4FX-FYBBF  Activation Count: 499
+VVJFB-6VCHB-9D8GM-YQC97-VV4GH  Activation Count: 459
+V3C9V-68RF8-TX79X-BF2QW-PV3VB  Activation Count: 49
+7YHV9-Y3PT2-FD4GJ-3V2DR-JGF4G  Activation Count: 0
+XB82B-DPKKP-K3JK3-G4QJM-WWXMW  Activation Count: 0
+====================================================
+Server 2008 R2 DC and IA64 Volume MAK (MAK C) (6)
+X963K-FG878-87K8B-T6BBB-G9Q2Q  Activation Count: 406
+7Y3HT-PTCBJ-KPGKG-YBWB8-34GXQ  Activation Count: 37
+6DTW7-XFGGR-FKPB2-BXV9K-6HB69  Activation Count: 0
+BB8DG-F3FTP-78MT6-W2CT9-GFPBM  Activation Count: 0
+MPPXD-62F73-G4RHX-X9YHT-BP9FQ  Activation Count: 0
+QY97X-X497C-9D6RW-46RMB-BPW7Q  Activation Count: 0
+====================================================
+Server 2008 R2 Std and Ent Volume MAK (MAK B) (12)
+6Q3G8-6XQV8-F79KD-HKCR9-T8VKG  Activation Count: 11
+MK29G-8T2GK-Q8YQF-B3VMB-2DVV3  Activation Count: 43
+GM62B-H46KQ-D49X6-HJ4BK-KV27T  Activation Count: 8
+XD42R-2FGXH-D8684-XF9R2-7Y2Q9  Activation Count: 0
+H4QTM-FW23R-69W2P-Q4QQC-6CGM6  Activation Count: 0
+RJYVQ-3P892-6PKQ2-BFMD4-VFHRX  Activation Count: 0
+GWWTY-R22FQ-DT7QQ-2D4R2-BK6JF  Activation Count: 0
+H8MCK-VHD99-4MWYQ-3PQRJ-GX7BC  Activation Count: 0
+D26WR-3R7GV-XGPJ8-9W83J-HYPCW  Activation Count: 0
+KKCV8-TF9XR-GFKHM-RF8VW-CG84V  Activation Count: 0
+TJ7VV-D97BW-R4G76-J4RDQ-9KCP7  Activation Count: 0
+2Q3T7-TCDJY-XXYKH-8MY8R-DB77G  Activation Count: 0
+====================================================
+Server 2008 R2 Web and CC Volume MAK (MAK A) (5)
+KHXKT-697FV-MR4VK-HPTG9-V7VBD  Activation Count: 194
+8YDD6-G6FQ2-Q6DFK-K2C2J-HYWCY  Activation Count: 172
+J68FJ-4XYXW-PWRGY-RMC4X-H7WTJ  Activation Count: 46
+P776V-3W28X-WQCMF-4638X-43KMM  Activation Count: 0
+VKVW8-Q4PHY-FPMWQ-D2RYY-J8Y2B  Activation Count: 0
+====================================================
+Server 2008 Standard & Enterprise MAK (6)
+MTGYY-VCKJ8-TXH3F-6TVRC-G26Y2  Activation Count: 467
+YWJ69-C2JYP-88MGQ-MWMRJ-B73RY  Activation Count: 437
+J6H7G-8YDTV-YBDCB-W8J7C-TXC2X  Activation Count: 378
+MM68C-K8KRH-HTXJD-J7MK9-QV7HB  Activation Count: 27
+YF6HW-83P77-CDRKH-CHDFV-9KXRD  Activation Count: 0
+XFYDP-WRV3H-864PG-K3GQM-G3CGP  Activation Count: 0
+====================================================
+Server 2008 Win Web & Compute Cluster MAK (1)
+6PT97-WJ2YV-BXKWH-R9MPX-RMQVF  Activation Count: 50
+====================================================
+Server 2012 RTM ServerDatacenter Volume MAK (2)
+N8YRH-P3MMB-8QRMG-D4PRG-XP77B  Activation Count: 98
+HDRYN-WGBJR-YXRXY-MHTB2-TMQKY  Activation Count: 0
+====================================================
+Server 2012 RTM ServerStandard Volume MAK (2)
+79GNB-Y2KR4-FBXVF-43DRV-CYQKQ  Activation Count: 78
+NYRBJ-CMJHY-8V7C6-QKXCR-BY2QD  Activation Count: 44
+====================================================
+Server Essentials 2012 R2 RTM ServerSolution Volume MAK (1)
+KRTNC-XGQ3Q-6FRVW-JJH7G-CGXFX  Activation Count: 434
+====================================================
+Server Essentials 2012 RTM ServerSolution Volume MAK (1)
+GM73W-MPNM7-QCGM3-DHQGY-RCW39  Activation Count: 3
+====================================================
+Server MultiPoint 2012 RTM ServerMultiPointPremium Volume MAK (1)
+XQ8P6-M4NVJ-MGY9Y-P2DDM-7MFF9  Activation Count: 21
+====================================================
+Server MultiPoint 2012 RTM ServerMultiPointStandard Volume MAK (1)
+RP96R-6NY3H-JBB7Q-BDRJD-9D4F2  Activation Count: 50
+====================================================
+Win 7 All Volume Editions Volume MAK (50)
+MDYT6-CDFW8-XGTV8-R87JQ-DF96P  Activation Count: 1850
+GD283-77FKP-923WG-PW889-G6Q32  Activation Count: 323
+W7TM4-K2CKR-BWYTF-M9J74-DWTT6  Activation Count: 134
+CRTP3-WH8R8-93T7F-PXD7R-WJ93C  Activation Count: 129
+7MQJ3-WJ9MQ-7Q6BJ-D279D-H4322  Activation Count: 100
+YCGVH-XJBD8-YRHK7-22RFB-3BDCF  Activation Count: 99
+W3KYM-BWXG4-M2PDC-V3K36-8QPJK  Activation Count: 0
+Q8XKC-PTK42-7KVB2-2GH7R-M98R7  Activation Count: 0
+C86F8-X82GY-9T28W-CP2WQ-X7YDQ  Activation Count: 0
+PRP24-C66WQ-6KH43-83P9M-KRQK8  Activation Count: 0
+GM7JP-K6894-VGQMC-BP3GF-3Y773  Activation Count: 0
+MFQ2Q-7C8KX-VRWQB-FX26V-7D9DJ  Activation Count: 0
+2RKR3-4322Q-XCV4K-JGDRX-BMW4F  Activation Count: 0
+3XD44-T343Q-HKRMM-3CKW7-PY8KB  Activation Count: 0
+7M4J4-T84WK-G2MJ4-4344Q-C262K  Activation Count: 0
+BKYCC-38HPV-R6HJH-YJRMG-CWF8F  Activation Count: 0
+GHDYM-3GWKH-G472P-YMDQP-V86K7  Activation Count: 0
+J6B3Q-M3CGK-KG8QG-G3G6X-GK9GM  Activation Count: 0
+J8BCC-HR9KY-4WWX6-BYDYC-6Y89J  Activation Count: 0
+J9HWQ-KMYCH-TRVPQ-9P7RC-HQQJ8  Activation Count: 0
+PVR3C-F7DY6-BQ9VM-TX8XW-PRQK4  Activation Count: 0
+TF26K-Q4PTX-VXJKV-DMMW2-32GB3  Activation Count: 0
+VKCHR-V27TG-RX42T-GW77W-8FPJG  Activation Count: 0
+WXXH3-VKVKP-RQK7G-BPBKP-CF8YM  Activation Count: 0
+TQBXG-8KTHY-76XW3-H8FBW-J9XRR  Activation Count: 0
+D6PQ9-GGMPG-9HDR4-YPV68-HWWG3  Activation Count: 0
+4B2JQ-QTBQD-32M6F-MGGD9-B3XRC  Activation Count: 0
+W6KV8-84B9T-CWDP3-3MWDB-Y7JK9  Activation Count: 0
+PWKXC-9FP68-W2C37-P7YPK-MWGJH  Activation Count: 0
+4JGRJ-D9TGF-4KMVD-K8RHV-H3CGK  Activation Count: 0
+7X7RG-CP9K8-7VJ4K-J4RRP-6RQ7H  Activation Count: 0
+7YVPC-4Y2QM-KT427-399FP-VXJXV  Activation Count: 0
+8W8CV-DHDRM-67X6P-YQ2H4-WR8F9  Activation Count: 0
+C6496-2GWV6-BKQR9-XM7JW-6VCBH  Activation Count: 0
+C8CJH-BYD6W-F69J4-RM2PT-B7QPT  Activation Count: 0
+CTJW9-23T6G-GKVKM-7QTWR-J8CHV  Activation Count: 0
+D6G8X-XJRF4-7G7VR-K73HM-2VGQ6  Activation Count: 0
+GQKC3-84QQ2-FPRHF-FXB3K-D8QK3  Activation Count: 0
+MKCCX-FYF6D-VCJMW-3TKB4-8Q774  Activation Count: 0
+PXGVC-DJY6Y-CTPFX-XHWGG-9GDTY  Activation Count: 0
+RGXFQ-GMYW6-W6CDT-2FMCR-X72P3  Activation Count: 0
+YR3T6-KVY24-PMRWJ-3HJ9G-6CV9C  Activation Count: 0
+2YX46-VW2Y9-VRBWV-VPHJ7-JJCQ8  Activation Count: 0
+7JXJW-JDCGV-GBRGQ-QQBM6-743WM  Activation Count: 0
+BPKKR-Q3B3Q-W3YQ6-9WQWP-66K7Y  Activation Count: 0
+QXJ2W-9G79M-9Q6TG-KW2MF-BB7KW  Activation Count: 0
+WY3QG-2JJC8-WHJXY-FK38G-MR32K  Activation Count: 0
+2VXCC-J9GGJ-2BWJ7-THYVC-FF9K6  Activation Count: 0
+77R46-RM8H4-268XR-83C26-WK7WW  Activation Count: 0
+2TK7C-XBTWR-RCKCD-HQDPG-8FHWP  Activation Count: 0
+====================================================
+Win 8.1 RTM Professional ProfessionalN Enterprise EnterpriseN Volume MAK (9)
+C8DNW-RGDKY-TM4RD-PWWYF-4X7QQ  Activation Count: 0
+QN2M7-VCVJQ-Y36FD-T3PHJ-82M93  Activation Count: 0
+TVK7W-ND8YJ-B7D2C-XXFP9-T8Y93  Activation Count: 0
+BJVNV-XWW4D-42KT7-239JW-82M93  Activation Count: 0
+NWXF6-F24HK-9M79K-GRWG4-MWP7D  Activation Count: 0
+RQMCN-PHGPC-8JVMR-9X377-GCM93  Activation Count: 0
+R8NJT-RB37P-RWQHR-9TTBX-8QJK3  Activation Count: 0
+B3C3Q-JWNXM-BRDRP-2Y3C9-JXBDQ  Activation Count: 0
+====================================================
+Win 8 RTM Professional ProfessionalN Enterprise EnterpriseN Volume MAK (23)
+GQWWC-HNPJG-2RQ74-8PYY9-GJCK2  Activation Count: 535
+XYV2H-YN7BQ-FWB36-X7KHC-VFPK2  Activation Count: 512
+NTGWP-RVVWV-PKJV8-XJPV7-QPBQP  Activation Count: 324
+NRP3F-VDG9Y-BDWFR-2JWY3-KKT7C  Activation Count: 66
+M8C3G-MMN4F-9JRYC-H23TW-DGJX2  Activation Count: 19
+M3GKK-RNXFG-8H2V4-23WXB-QJXVC  Activation Count: 12
+NYBF7-7924X-8G269-8V4RR-DJXVC  Activation Count: 0
+NYBF7-7924X-8G269-8V4RR-DJXVC  Activation Count: 0
+8J34N-RV43H-3J8YF-98TRP-PGV3P  Activation Count: 0
+BW7FP-69NCP-RDFRJ-XG742-BR9VC  Activation Count: 0
+2VNV4-77CKK-GRDM3-4FPQK-QV3HC  Activation Count: 0
+347VV-NV2K7-8PV7H-BMX8P-P9T7C  Activation Count: 0
+3C8NR-MFG3P-CBBQM-BJVKC-7CBQP  Activation Count: 0
+73WBK-N87H7-XVP9F-6YDK7-R88X2  Activation Count: 0
+823Q3-NRW2W-7BH7M-4MB82-CJ8X2  Activation Count: 0
+8HDQF-NT7YG-4PD6M-B9KRX-Y7RDP  Activation Count: 0
+FJ387-DRN2Q-WY33X-T8XHW-CPKVC  Activation Count: 0
+NP4G2-9KY84-Y3TCG-W8TMR-6Q4DP  Activation Count: 0
+NWH3R-DHY6B-FHFW2-KTKCP-GQ4DP  Activation Count: 0
+V98QN-73BPM-GWT9C-88G8J-PJ8X2  Activation Count: 0
+9XGHN-4H47Q-H37GV-6PCF6-KTJX2  Activation Count: 0
+NCH4Q-BTWX2-3XPBW-JP48K-QV3HC  Activation Count: 0
+9CNVG-B2RY3-27TX7-67H22-27F92  Activation Count: 0

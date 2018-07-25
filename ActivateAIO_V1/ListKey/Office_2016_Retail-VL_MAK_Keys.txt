@@ -1,0 +1,94 @@
+Office 2016 Retail-VL MAK Keys
+==============================
+Office 2016 Pro Retail Keys:
+============================
+Office 2016 Pro Plus Phone Activation Retail Key
+BN346-KPVRG-HHQG3-6YDPV-8HV7H
+4KNF6-BY4QB-QFDW8-MCCJH-94TDV
+NT782-4R9JW-JYHG9-VVY8C-JB6DV
+B7WV8-K4NYK-QM8BD-YGFQT-6F4HH
+-------------------------------
+Office 2016 Visio Pro Phone Activation Retail Key  
+Not available right now.!
+-------------------------------
+Office 2016 Project Pro Phone Activation Retail Key
+Not available right now.!
+-------------------------------
+[Tested working on VM3 07 March 2016]
+ 
+=============================================================================
+ 
+Office 2016 Volume License MAK Keys
+===================================
+Office 2016 Pro Plus Volume License MAK Key(s):
+Product Key(s)------------------Remaining Activation Counts
+Not available right now.!
+-------------------------------------------------------------------------------
+Office 2016 Visio Pro Volume License MAK Key(s):
+Product Key(s)------------------Remaining Activation Counts
+Not available right now.!
+-------------------------------------------------------------------------------
+Office 2016 Project Pro Volume License MAK Key(s):  
+Product Key(s)------------------Remaining Activation Counts
+Not available right now.!
+-------------------------------------------------------------------------------
+Office 2016 Standard Volume License MAK Keys(s):
+Product Key(s)------------------Remaining Activation Counts
+Not available right now.!
+ 
+=============================================================================
+Office 2016 Pro Plus Retail MSDN Edition Direct Download ISO Links [MULTI]: http://bit.ly/1XvVV3m
+Office 2016 Pro Plus VL VLSC Edition Direct Download ISO Links [MULTI]: http://bit.ly/1VJI8os
+How to Activate Office 2016 Via Phone: http://bit.ly/1LCAwOH
+WebAct By Ratiborus - MS Online Retail Keys Activation Application Alternative To Skype Call: http://bit.ly/1Q7xVxm
+=============================================================================
+Notice:
+**If Remaining Activation Count (+) you can activate the Office 2016 Directly ONLINE [Internet ON]
+**If Remaining Activation Count (0) you can activate the Office 2016 VIA Skype OFFLINE [Internet OFF]
+http://www.nsaneforums.com/topic/252378-office-2016-rtm-activation-via-phone-or-kms/
+===============================================================================
+ 
+Office 2016 Phone Activation Via Command Line
+Instruction:
+1. Open any Office 2016 Application first time  and close it.
+2. Right click the start menu and choose "command prompt (admin)"
+3. Type this script and hit Enter:
+---------------------------------------------------------------------
+For 32-bit versions of Office on 32-bit versions of Windows or 64-bit versions of Office 2016 on 64-bit versions of Windows the script is:
+cscript "C:\Program Files\Microsoft Office\Office16\OSPP.VBS" /inpkey:xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
+---------------------------------------------------------------------
+If you are installing the 32-bit version of Office on 64-bit versions of Windows the script is:
+cscript "C:\Program Files (x86)\Microsoft Office\Office16\OSPP.VBS" /inpkey:xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
+(Note:Where xxxxx-xxxxx-xxxxx-xxxxx-xxxxx is the Product Key.)
+---------------------------------------------------------------------
+4. Open any Office Component such as Word 2016
+5. When MS Office activation wizard  then hit Activate by Phone option
+6. You will get Installation ID in this step
+7. Call Microsoft Free Call Center and get the Confirmation ID Read carefully details about how to deal with robot speaker By Skype:
+You will see some toll-free phone numbers which you can call. UK Free Call Skype Dial Number  [+448000188354]  l  USA Free Call Skype Dial Number [+18007548300]  l  
+Worldwide telephone numbers: https://www.microsoft.com/en-us/licensing/existing-customer/activation-centers.aspx
+ 
+* Make sure have a microphone plugged into your PC in order for the dial pad to work ! *
+# If you don't have microphone plug in any JACK into your motherboard headphone port & use your soundbox to hear voice or use Android Phone with Skype installed on phone.#
+ 
+Full Skype conversation & respond the right answer to order to get successfully verification:
+Verification Numbers:
+For security reason please enter the following number using your touch-tone pad.
+== Dial the numbers using touch-tone pad robot speaker has given to you.===
+---------------------------------------------------------------------
+Press one as a home user and two if you are a business customer with a volume license agreement.
+===DIAL 1 using touch-tone pad===
+Press one if you have your Installation  ID available if not press 2
+===DIAL 1 using touch-tone pad===
+If you want to to activate Microsoft Product press one now if you activate office for Mac press two
+===DIAL 2 using touch-tone pad===
+---------------------------------------------------------------------
+In this stage robot Speaker will ask your 9 group of  Installation ID dial one by one using touch-tone pad
+ 
+Finally speaker will ask you last question:
+On how many computer is your product currently installed?
+*** DIAL 1 using your touch-tone pad.... ***
+ 
+In the end you will get Confirmation ID just type the ID in the activation wizard confirmation ID sectiction.
+ 
+===============================================================================
