@@ -1,0 +1,76 @@
+﻿Win 10 Insider Preview 10166*
+\data\10 Pre\10166\pkeyconfig_win10_10166.xrm-ms  
+Win 10 Insider Preview 10162   
+\data\10 Pre\10162\pkeyconfig_win10_10162.xrm-ms  
+Win 10 Insider Preview 10159  
+\data\10 Pre\10159\pkeyconfig_win10_10159.xrm-ms  
+Win 10 Insider Preview 10158
+\data\10 Pre\10158\pkeyconfig_win10_10158.xrm-ms.xrm-ms
+Win 10 Insider Preview 10151
+\data\10 Pre\10151\pkeyconfig_win10_10151.xrm-ms
+Win 10 Insider Preview 10147   
+\data\10 Pre\10147\pkeyconfig_win10_10147.xrm-ms  
+Win 10 Insider Preview 10135*
+\data\10 Pre\10135\pkeyconfig_win10_10135.xrm-ms
+Win 10 Insider Preview 10130   
+\data\10 Pre\10130\pkeyconfig_win10_10130.xrm-ms  
+Win 10 Insider Preview 10122   
+\data\10 Pre\10122\pkeyconfig_win10_10122.xrm-ms  
+Win 10 Insider Preview 10074  
+\data\10 Pre\10074\pkeyconfig_win10_10074.xrm-ms  
+Win 10 Technical Preview 10061  
+\data\10 Pre\10061\pkeyconfig_win10_10061.xrm-ms  
+Win 10 Technical Preview 10051 
+\data\10 Pre\10051\pkeyconfig_win10_10051.xrm-ms  
+Win 10 Technical Preview 10049  
+\data\10 Pre\10049\pkeyconfig_win10_10049.xrm-ms  
+Win 10 Technical Preview 10041  
+\data\10 Pre\10041\pkeyconfig_win10_10041.xrm-ms  
+Win 10 Technical Preview 10036
+\data\10 Pre\10036\pkeyconfig_win10_10036.xrm-ms
+Win 10 Technical Preview 9926  
+\data\10 Pre\9926\pkeyconfig_win10_9926.xrm-ms  
+Win 10 Technical Preview 9879  
+\data\10 Pre\9879\pkeyconfig_win10_9879.xrm-ms  
+Win 10 Technical Preview 9860  
+\data\10 Pre\9860\pkeyconfig_win10_9860.xrm-ms  
+Win 10 Technical Preview 9841  
+\data\10 Pre\9841\pkeyconfig_win10_9841.xrm-ms  
+Win 10 Insider Preview 10166* CSVLK  
+\data\10 Pre\10166\pkeyconfig_win10_10166-csvlk.xrm-ms  
+Win 10 Insider Preview 10162 CSVLK  
+\data\10 Pre\10162\pkeyconfig_win10_10162-csvlk.xrm-ms  
+Win 10 Insider Preview 10159 CSVLK  
+\data\10 Pre\10159\pkeyconfig_win10_10159-csvlk.xrm-ms 
+Win 10 Insider Preview 10158 CSVLK
+\data\10 Pre\10158\pkeyconfig_win10_10158-csvlk.xrm-ms
+Win 10 Insider Preview 10151 CSVLK
+\data\10 Pre\10151\pkeyconfig_win10_10151-csvlk.xrm-ms
+Win 10 Insider Preview 10147 CSVLK  
+\data\10 Pre\10147\pkeyconfig_win10_10147-csvlk.xrm-ms  
+Win 10 Insider Preview 10135* CSVLK
+\data\10 Pre\10135\pkeyconfig_win10_10135-csvlk.xrm-ms
+Win 10 Insider Preview 10130 CSVLK  
+\data\10 Pre\10130\pkeyconfig_win10_10130-csvlk.xrm-ms  
+Win 10 Insider Preview 10122 CSVLK  
+\data\10 Pre\10122\pkeyconfig_win10_10122-csvlk.xrm-ms  
+Win 10 Insider Preview 10074 CSVLK  
+\data\10 Pre\10074\pkeyconfig_win10_10074-csvlk.xrm-ms  
+Win 10 Technical Preview 10061 CSVLK  
+\data\10 Pre\10061\pkeyconfig_win10_10061-csvlk.xrm-ms  
+Win 10 Technical Preview 10051 CSVLK  
+\data\10 Pre\10051\pkeyconfig_win10_10051-csvlk.xrm-ms  
+Win 10 Technical Preview 10049 CSVLK  
+\data\10 Pre\10049\pkeyconfig_win10_10049-csvlk.xrm-ms  
+Win 10 Technical Preview 10041 CSVLK  
+\data\10 Pre\10041\pkeyconfig_win10_10041-csvlk.xrm-ms  
+Win 10 Technical Preview 10036 CSVLK
+\data\10 Pre\10036\pkeyconfig_win10_10036-csvlk.xrm-ms
+Win 10 Technical Preview 9926 CSVLK  
+\data\10 Pre\9926\pkeyconfig_win10_9926-csvlk.xrm-ms  
+Win 10 Technical Preview 9879 CSVLK  
+\data\10 Pre\9879\pkeyconfig_win10_9879-csvlk.xrm-ms  
+Win 10 Technical Preview 9860 CSVLK  
+\data\10 Pre\9860\pkeyconfig_win10_9860-csvlk.xrm-ms  
+Win 10 Technical Preview 9841 CSVLK  
+\data\10 Pre\9841\pkeyconfig_win10_9841-csvlk.xrm-ms 
